@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anirudh Narayanan</h1>
 <h3 align="center">A passionate Computer Science graduate with projects in Computer Vision, Software Development and Machine Learning </h3>
 
+# 
+
 - 🔭 I’m currently working on creating a [Soccer Highlight Generator](https://github.com/Anirudhrn98/Event_Detection_Soccer)
 
 - 👯 I’m looking to collaborate on [Event Detection/ Action Recognition for Soccer Games](https://github.com/Anirudhrn98/Event_Detection_Soccer)
@@ -16,7 +18,7 @@
 <a href="https://www.linkedin.com/in/anirudhr15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anirudhr15/" height="30" width="40" /></a>
 </p>
 
-
+# 
 
 <h3 align="left">Languages and Tools:</h3>
 
