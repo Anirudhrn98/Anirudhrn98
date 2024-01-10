@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Event Detection/ Action Recognition for Soccer Games](https://github.com/Anirudhrn98/Event_Detection_Soccer)
 
-- 👨‍💻 All of my projects are available at [github.com/Anirudhrn98](https://github.com/Anirudhrn98)
+- 👨‍💻 All of my projects are available at [my Github Profile](https://github.com/Anirudhrn98)
 
 - 💬 Ask me about **Python, Matlab, TensorFlow, Computer Vision, C++, Data Analysis**
 
