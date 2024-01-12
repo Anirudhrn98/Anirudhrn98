@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudh Narayanan</h1>
-<h3 align="center">A passionate Computer Science graduate with projects in Computer Vision, Software Development and Machine Learning </h3>
+<h3 align="center">A passionate Computer Science graduate with projects in Computer Vision, Machine Learning and Data Analysis </h3>
 
 # 
 
